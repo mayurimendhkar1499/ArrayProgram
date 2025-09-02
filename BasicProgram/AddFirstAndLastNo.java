@@ -2,6 +2,7 @@ package BasicProgram;
 
 import java.util.Scanner;
 
+
 public class AddFirstAndLastNo
 {
 	public static void main(String[] args)
