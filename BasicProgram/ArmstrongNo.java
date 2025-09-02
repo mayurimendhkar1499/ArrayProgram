@@ -2,6 +2,7 @@ package BasicProgram;
 
 import java.util.Scanner;
 
+
 public class ArmstrongNo
 {
 	public static void main(String[] args) 

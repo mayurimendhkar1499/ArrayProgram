@@ -2,6 +2,7 @@ package ArratProgram;
 
 import java.util.Scanner;
 
+
 public class ArrayEqualsOrNot 
 {
 	public static void main(String[] args) 
